@@ -1,4 +1,4 @@
-# Componente de busca em lista
+# Componente de busca em lista utilizando React
 
 Este é um projeto de exemplo utilizado React onde foi construído um componente onde é possível buscar um ou mais registros através de um input de texto
 
