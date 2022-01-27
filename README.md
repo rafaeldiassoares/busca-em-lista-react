@@ -1,6 +1,6 @@
 # Componente de busca em lista utilizando React
 
-Este é um projeto de exemplo utilizado React onde foi construído um componente onde é possível buscar um ou mais registros através de um input de texto
+Este é um projeto de exemplo utilizando React onde foi construído um componente que é possível buscar um ou mais registros através de um input de texto
 
 ![image](https://github.com/rafaeldiassoares/busca-em-lista-react/blob/main/print.png?raw=true)
 
